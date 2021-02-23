@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "230639460055",
+    "project_id": "unaiza-27790",
+    "storage_bucket": "unaiza-27790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230639460055:android:1f9acf9727613a54371a92",
+        "android_client_info": {
+          "package_name": "com.example.unaiza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230639460055-b6rte5mj4i1p1qbq0mi9lejg5isk0vic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unaiza",
+            "certificate_hash": "a027b4d79271c70c2299dab63284af635e842067"
+          }
+        },
+        {
+          "client_id": "230639460055-33tojkmv34jcj736l4loi9u8dfief7mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8shq46nJmGpv33xNj1WFvMGBbD-vz1T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230639460055-33tojkmv34jcj736l4loi9u8dfief7mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
