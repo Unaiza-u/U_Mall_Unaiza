@@ -24,7 +24,7 @@
 
 
 ## Seller ID
-### Email: alinayousuf456@gmail.com,  Password:alina456
+### Email: aleenayousuf456@gmail.com,  Password:alina456
 
 ##### If Sellers don't have an aacount, they can Sign Up from this screen and create an account.
 ![Seller_SignUp](https://user-images.githubusercontent.com/78840757/108865126-b307fa00-7614-11eb-80a4-b40a60e5770c.jpg)
@@ -32,6 +32,12 @@
 
 #### If Sellers have an account, they can login by entering their contact number and password.
 ![Seller_SignIn](https://user-images.githubusercontent.com/78840757/108865265-dfbc1180-7614-11eb-9cc5-ce5bb958fe4f.jpg)
+
+
+## Upload Prodcuts
+### Sellers can upload the products by clicking any category
+![categories](https://user-images.githubusercontent.com/78840757/108872119-aa66f200-761b-11eb-9f02-50345480a2a5.jpg)
+
 
 
 
