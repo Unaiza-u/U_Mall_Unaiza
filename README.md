@@ -9,6 +9,10 @@
 #### Admin can login by entering his number and password.
 ![Admin_Login](https://user-images.githubusercontent.com/78840757/108865067-a2f01a80-7614-11eb-8383-66d7adb21011.jpg)
 
+#### Admin will manage the products, he will approve the products that are uploaded by the seller.
+![adminManage](https://user-images.githubusercontent.com/78840757/108881976-b2c42a80-7625-11eb-9d83-3ad1dfcdb30b.jpg)
+
+
 
 
 # User ID
@@ -19,6 +23,10 @@
 
 #### If users have an account, they can login by entering their contact number and password.
 ![User_Login](https://user-images.githubusercontent.com/78840757/108864833-64f2f680-7614-11eb-885c-ebd1f6d73356.jpg)
+
+#### Users can see all the products and can add to their cart to buy these products.
+![userProductsView](https://user-images.githubusercontent.com/78840757/108882324-164e5800-7626-11eb-8786-73043013e363.jpg)
+
 
 
 
